@@ -1,0 +1,68 @@
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe.config
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.pdb
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.resources
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Properties.Resources.resources
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csproj.GenerateResource.cache
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.exe
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.pdb
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe.manifest
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.application
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.exe.manifest
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.application
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\tr-TR\Liste Oluşturma.resources.dll
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.tr-TR.resources
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\tr-TR\Liste Oluşturma.resources.dll
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\en\Liste Oluşturma.resources.dll
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\bin\Debug\tk\Liste Oluşturma.resources.dll
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.en.resources
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.tk.resources
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\en\Liste Oluşturma.resources.dll
+C:\Users\HOME\source\repos\Liste Oluşturma\Liste Oluşturma\obj\Debug\tk\Liste Oluşturma.resources.dll
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe.config
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe.manifest
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.application
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.pdb
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\en\Liste Oluşturma.resources.dll
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\tk\Liste Oluşturma.resources.dll
+F:\Liste Oluşturma\Liste Oluşturma\bin\Debug\tr-TR\Liste Oluşturma.resources.dll
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csprojAssemblyReference.cache
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.resources
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Properties.Resources.resources
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.en.resources
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.tk.resources
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.tr-TR.resources
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csproj.GenerateResource.cache
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\en\Liste Oluşturma.resources.dll
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\tk\Liste Oluşturma.resources.dll
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\tr-TR\Liste Oluşturma.resources.dll
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.exe.manifest
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.application
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.exe
+F:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.pdb
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe.config
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe.manifest
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.application
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.exe
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\Liste Oluşturma.pdb
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\en\Liste Oluşturma.resources.dll
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\tk\Liste Oluşturma.resources.dll
+D:\Liste Oluşturma\Liste Oluşturma\bin\Debug\tr-TR\Liste Oluşturma.resources.dll
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csprojAssemblyReference.cache
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.resources
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Properties.Resources.resources
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.en.resources
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.tk.resources
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste_Oluşturma.Form1.tr-TR.resources
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csproj.GenerateResource.cache
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.csproj.CoreCompileInputs.cache
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\en\Liste Oluşturma.resources.dll
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\tk\Liste Oluşturma.resources.dll
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\tr-TR\Liste Oluşturma.resources.dll
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.exe.manifest
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.application
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.exe
+D:\Liste Oluşturma\Liste Oluşturma\obj\Debug\Liste Oluşturma.pdb
